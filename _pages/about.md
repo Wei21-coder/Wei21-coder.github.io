@@ -21,17 +21,11 @@ News
 ======
 - Our paper ["Preference robust state-dependent distortion risk measure on act space and its application in optimal decision making"](https://link.springer.com/article/10.1007/s10287-023-00475-x) has published online on Oct 05, 2023. 
 
-Rewards
+Selected Rewards
 ======
 - Publications Award, Southampton Business School Southampton, UK (2020,2022);
 - ESRC SCDTP scholorship, Economic and Social Research Council Southampton, UK (2017);
-- 2nd Prize, Data-Driven Mathematical Contest in Modeling and Product Designing Competition Xi'an, China (2016);
-- GuangHua Scholarship, Xi'an Jiaotong Univerisity Xi'an, China (2016);
-- Merit Graduate Student, Xi'an Jiaotong University Xi'an, China (2016);
-- Samsung Scholarship, Xi'an Jiaotong Univerisity Xi'an, China (2015);
-- Excellent Volunteer, International Universities Alliance of the New Silk Road Xi'an, China (2015);
 - Meritorious Winner, Mathematical Contest in Modeling of America Xi'an, China (2013);
-- National Endeavor Fellowship, Xi'an Jiaotong University Xi'an, China (2012); 
 - 2nd Prize, National Mathematics Contest for college students (Shaanxi Contest District) Xi'an, China (2011).
 
 Contacts
