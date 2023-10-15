@@ -16,3 +16,7 @@ author_profile: true
 {% endfor %}
 
 
+- 
+- MOS2021, Oct, 2020 (Online)
+- SCDTP Final-Year Conference, Dec, 2019 (Brighton, United Kingdom)
+  
