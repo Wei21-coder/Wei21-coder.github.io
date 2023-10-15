@@ -15,8 +15,8 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %}
 
-
-- 
-- [MOS2021](http://www.smartchair.org/hp/MOS2021/), Oct, 2021 (Online)
-- SCDTP Final-Year Conference, Dec, 2019 (Brighton, United Kingdom)
+- Research Seminar in SUSTech, Dec, 2023 (Shenzhen, China);
+- Inform Annual Meeting, Oct. 2022 (Online);
+- [MOS2021](http://www.smartchair.org/hp/MOS2021/), Oct, 2021 (Online);
+- SCDTP Final-Year Conference, Dec, 2019 (Brighton, United Kingdom). 
   
