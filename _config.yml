@@ -85,8 +85,8 @@ author:
   bio              : "Research Fellow, Department of Systems Engineering and Engineering Management,The Chinese University of Hong Kong"
   location         : "Shatin, N.T., Hong Kong"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "math.wang21@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Wei-Wang-649"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "Wei21-coder"
   google_plus      :
   keybase          :
   instagram        :
