@@ -29,5 +29,6 @@ Project Experience
 
 Peer-review Service
 ======
-- Mathematical Programming, Operational Research, SIAM Journal on Optimization, Frontiers of Mathematical Finance, Insurance: Mathematics and Economics.
+- Asian-Pacific Journal of Operational Research, Quantitative Finance.
+
 
