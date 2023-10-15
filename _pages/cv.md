@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "CV"
+title: "Dr. Wei Wang"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-[CV](../files/paper1.pdf)
+[My Curriculum Vitae](../files/paper1.pdf)
 
