@@ -11,9 +11,10 @@ redirect_from:
 
 About me
 ======
-1. I am currently a Research Fellow in the [Department of Systems Engineering and Engineering Management](https://www.se.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) starting from April 2023.
-2. I obtained my Ph.D. degree in Decision Analytics and Risk at the Southampton Business School (UoS), funded by ESRC SCDTP, supervised by Prof. Tiejun Ma and Prof. Huifu Xu. Prior to this, I recevied my Master Degree in Applied Mathematics and B.Sc. Degree in Mathematics and Applied Mathematics at Xi'an Jiaotong University (XJTU), Supervised by Prof. Zhiping Chen.
-3. My current research interests include Preference and Distribution Robust Optimization, Behavioral Finance, Quantitative Risk Management, Qualitative and Quantitative Statistical Robustness, and Risk Capital Allocation. 
+1. I am currently a Research Fellow in the [Department of Systems Engineering and Engineering Management](https://www.se.cuhk.edu.hk/), The Chinese University of Hong Kong, starting from April 2023.
+2. I obtained my Ph.D. degree in Decision Analytics and Risk at the Southampton Business School (UoS), funded by [ESRC SCDTP](https://southcoastdtp.ac.uk/) and supervised by [Prof. Tiejun Ma](https://www.southampton.ac.uk/people/5x7tdj/doctor-tiejun-ma#about) and [Prof. Huifu Xu](https://www1.se.cuhk.edu.hk/~hfxu/index.html).
+3. I recevied my Master Degree in Computing Mathematics and B.Sc. Degree in Mathematics and Applied Mathematics at [Xi'an Jiaotong University (XJTU), Supervised by [Prof. Zhiping Chen](https://gr.xjtu.edu.cn/en/web/zpchencn).
+4. My current research interests include Preference and Distribution Robust Optimization, Behavioral Finance, Quantitative Risk Management, Qualitative and Quantitative Statistical Robustness, and Risk Capital Allocation. 
 
 
 News
