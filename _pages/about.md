@@ -26,7 +26,6 @@ Selected Rewards
 - Publications Award, Southampton Business School Southampton, UK (2020,2022);
 - ESRC SCDTP scholorship, Economic and Social Research Council Southampton, UK (2017);
 - Meritorious Winner, Mathematical Contest in Modeling of America Xi'an, China (2013);
-- 2nd Prize, National Mathematics Contest for college students (Shaanxi Contest District) Xi'an, China (2011).
 
 Contacts
 ======
