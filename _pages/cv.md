@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-[My Curriculum Vitae](../files/paper1.pdf)
+[My Curriculum Vitae](../files/Curriculum Vitae_Wei Wang.pdf) 
 
