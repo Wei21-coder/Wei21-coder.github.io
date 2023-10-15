@@ -19,7 +19,7 @@ About me
 
 News
 ======
-- Our paper [Preference robust state-dependent distortion risk measure on act space and its application in optimal decision making](https://link.springer.com/article/10.1007/s10287-023-00475-x) has published online on Oct 05, 2023. 
+- Our paper ["Preference robust state-dependent distortion risk measure on act space and its application in optimal decision making"](https://link.springer.com/article/10.1007/s10287-023-00475-x) has published online on Oct 05, 2023. 
 
 Contacts
 ======
