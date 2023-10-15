@@ -11,11 +11,11 @@ Supervision
 
 - MSc Dissertation Supervisor in Southampton Businsess School (2023),
   
-  <Supervised students>: Samrat Dey, Bingyao Lin, Yixi Guan, and Lehan Zhang; 
+  **Supervised students**: Samrat Dey, Bingyao Lin, Yixi Guan, and Lehan Zhang; 
 
 - MSc Dissertation Supervisor in Southampton Businsess School (2022),
   
-  <Supervised students>: Yayun Liu (Best Paper Award), Duo Qiu, Hamza Topcu, and Zhilin Zhuo; 
+  **Supervised students**: Yayun Liu (<font color="red">Best Paper Award</font>), Duo Qiu, Hamza Topcu, and Zhilin Zhuo; 
 
 
 Others
