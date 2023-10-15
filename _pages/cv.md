@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Dr. Wei Wang"
+title: "Wei Wang"
 permalink: /cv/
 author_profile: true
 redirect_from:
