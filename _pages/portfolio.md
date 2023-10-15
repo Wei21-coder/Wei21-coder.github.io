@@ -10,11 +10,11 @@ author_profile: true
 Working Experience
 ======
 
-- Research Fellow, The Chinese University of Hong Kong, Hong Kong, China, Apr. 2023- ;
-- Associate Lecturer, University of Southampton, Southampton, United Kingdom, Jun. 2023- Nov. 2023;
-- Associate Lecturer, University of Southampton, Southampton, United Kingdom, May. 2022- Aug. 2022;
-- Research Assistant, The Chinese University of Hong Kong, Hong Kong, China, Jan. 2021- Jul. 2021;
-- Junior Research Assistant, The Chinese University of Hong Kong, Hong Kong, China, Jul. 2020-Jan. 2021;
+- **Research Fellow**, The Chinese University of Hong Kong, Hong Kong, China, Apr. 2023- ;
+- **Associate Lecturer**, University of Southampton, Southampton, United Kingdom, Jun. 2023- Nov. 2023;
+- **Associate Lecturer**, University of Southampton, Southampton, United Kingdom, May. 2022- Aug. 2022;
+- **Research Assistant**, The Chinese University of Hong Kong, Hong Kong, China, Jan. 2021- Jul. 2021;
+- **Junior Research Assistant**, The Chinese University of Hong Kong, Hong Kong, China, Jul. 2020-Jan. 2021;
 
 
 Project Experience
@@ -29,6 +29,6 @@ Project Experience
 
 Peer-review Service
 ======
-- Asian-Pacific Journal of Operational Research, Quantitative Finance.
+- Operational Research, Mathematical Programming, Insurance: Mathematics and Economics, Asian-Pacific Journal of Operational Research, Quantitative Finance.
 
 
