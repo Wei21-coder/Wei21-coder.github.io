@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[CV]()
+[CV](../files/paper1.pdf)
 {% include base_path %}
 
 Education
