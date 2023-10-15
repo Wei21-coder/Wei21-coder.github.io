@@ -19,12 +19,13 @@ About me
 
 News
 ======
+- Our paper [Preference robust state-dependent distortion risk measure on act space and its application in optimal decision making](https://link.springer.com/article/10.1007/s10287-023-00475-x) has published online on Oct 05, 2023. 
 
 Contacts
 ======
-1. Email: math.wang21@gmail.com
-2. Office: Room 503, William M.W. Mong Engineering Building
-3. Address: The Chinese University of Hong Kong, Shatin, N.T., Hong Kong
+- Email: math.wang21@gmail.com
+- Office: Room 503, William M.W. Mong Engineering Building
+- Address: The Chinese University of Hong Kong, Shatin, N.T., Hong Kong
 
 
 
