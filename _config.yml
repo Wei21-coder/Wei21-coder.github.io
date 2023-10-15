@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Wei21-coder"
+  github           : "Wei21-coder"
   google_plus      :
   keybase          :
   instagram        :
@@ -290,7 +290,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-# https://github.com/jekyll/jekyll-archives
+# https://github.com/Wei21-coder
 # jekyll-archives:
 #   enabled:
 #     - categories
