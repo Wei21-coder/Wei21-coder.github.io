@@ -15,6 +15,7 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %}
 
+- [2024 International Symposium on Emerging Risks and Quantitative Management], Aug, 2024 (SUSTech, Shenzhen, China);
 - [Research Seminar in SUSTech](https://math.sustech.edu.cn/seminar_all/12801.html), Oct, 2023 (Shenzhen, China);
 - [Inform Annual Meeting](https://meetings.informs.org/wordpress/indianapolis2022/#_gl=1*fml9a7*_gcl_au*MTY4ODcxNzIyNy4xNjkyMDA0Mzc5LjEzMTIyNDA2Ny4xNjk3NjA4NTE2LjE2OTc2MDg1MTU.), Oct, 2022 (Online);
 - [MOS2021](http://www.smartchair.org/hp/MOS2021/), Oct, 2021 (Online);
